@@ -6,7 +6,7 @@ This GitHub repository provides a comprehensive guide and Terraform configuratio
 # Versions
 
 * 1.2 - Major Improvements, added resources and automation for all the different landing zone resources and AI workload, added a basic scenario.
-* 1.0 - Initial Landign Zone Deployments
+* 1.0 - Initial Landing Zone Deployments
 
 ## Architecture Scenarios
 
